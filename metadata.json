@@ -1,6 +1,0 @@
-{
-  "name": "MADZASSIST AI",
-  "description": "Intelligent Enterprise Assistant with AI chat, task management, and productivity tracking.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
